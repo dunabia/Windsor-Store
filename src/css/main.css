@@ -208,7 +208,7 @@ body {
   font-family: "Roboto", sans-serif;
 }
 
-/* CSS widget */
+/* CSS widget 
 @font-face {
   font-family: 'Gestura';
   src: url('https://cdn.shopify.com/s/files/1/0708/4605/4708/files/Gestura-1.otf?v=1751370722') format('opentype');
@@ -574,5 +574,6 @@ div#yotpo-reviews-main-widget[class*=yotpo-display-][class*=yotpo-device-] .yotp
     line-height: 1;
     padding-top: 3px;font-size:0;
 }
+*/
 
 /*# sourceMappingURL=main.css.map */
