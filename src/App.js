@@ -19,7 +19,7 @@ function App() {
   let InstanceId_ReviewsTab = "";
 
   //Product ID
-  let ProductId = "7755117920502";
+  let ProductId = "6934770090035";
 
   //Clipboard text here.
   let ClipBoardHeading = "Follow these steps to add this";
